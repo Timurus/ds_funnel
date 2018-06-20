@@ -20,10 +20,13 @@ and make 4 google analytics API requests
     3) Add segments readible name. Each step in new line (optional).
     4) Connect datasource.
 
-Default breakdown dimension - Country
+Default breakdown dimension - 'Country'
+
 @TODO breakdown dimension picker
 
 ![](i/funnelAddonConfig.png)
+Funnel Visualisation
+![](i/funnel.png)
 
 (*) Connector:
 https://datastudio.google.com/datasources/create?connectorId=AKfycbwQ9774vh93_eKAhy9Qf5Phrvm7AsoVeE7VPd23No98RmdvRfE7ndwPzh4Jh5mKRjrn
