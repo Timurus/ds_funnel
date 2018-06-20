@@ -18,9 +18,10 @@ and make 4 google analytics API requests
     1) Choose Sequence Segment, if you don't have one add [demo segment](https://analytics.google.com/analytics/web/template?uid=BYYcDsLZSpuZNqSO9XZ-NQ) (**).
     2) Add Google Analytics viewID (***).
     3) Add segments readible name. Each step in new line (optional).
-    4 Connect datasource.
+    4) Connect datasource.
 
-
+Default breakdown dimension - Country
+@TODO breakdown dimension picker
 
 ![](i/funnelAddonConfig.png)
 
