@@ -1,15 +1,15 @@
 # Data studio connector
 ## Create Google Analytics funnel, based on Sequence Segment
 
-Google Analytics Sequence Segment lets you build any user flow using events, pageviews and other.
-When you create segment a->b->c->d, addon splits it in 4 subsegments:
+Google Analytics Sequence Segment lets you build any user flow using: events, pageviews and other.
+When you create sequential segment a->b->c->d, add-on splits it in 4 subsegments:
 1. a
 2. a->b
 3. a->b->c
 4. a->b->c->d
 
-
 and make 4 google analytics API requests
+
 ## Instalation
 
 1. Open [connector](https://datastudio.google.com/datasources/create?connectorId=AKfycbwQ9774vh93_eKAhy9Qf5Phrvm7AsoVeE7VPd23No98RmdvRfE7ndwPzh4Jh5mKRjrn) (*).
@@ -20,12 +20,13 @@ and make 4 google analytics API requests
     3) Add segments readible name. Each step in new line (optional).
     4) Connect datasource.
 
-Default breakdown dimension - 'Country'
 
-@TODO breakdown dimension picker
 
 ![](i/funnelAddonConfig.png)
-Funnel Visualisation
+### Funnel Visualisation
+
+Use 'Funnel Step' as dimension to build a funnel.
+
 ![](i/funnel.png)
 
 (*) Connector:
