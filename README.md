@@ -30,7 +30,14 @@ Use 'Funnel Step' as dimension to build a funnel.
 ![](i/funnel.png)
 
 (*) Connector:
-https://datastudio.google.com/datasources/create?connectorId=AKfycbwQ9774vh93_eKAhy9Qf5Phrvm7AsoVeE7VPd23No98RmdvRfE7ndwPzh4Jh5mKRjrn
+Lastest version 0.1.1
+https://datastudio.google.com/datasources/create?connectorId=AKfycbz1tFF2IRLljAH-O3AgAIsJE8DkAJK__Ti_j8cqiVMWYc3_ENK8UBCX091bMTJ9Tl9v
+
+Production version 0.1.1
+https://datastudio.google.com/datasources/create?connectorId=AKfycbz1tFF2IRLljAH-O3AgAIsJE8DkAJK__Ti_j8cqiVMWYc3_ENK8UBCX091bMTJ9Tl9v
+
+lastest dev
+https://datastudio.google.com/datasources/create?connectorId=AKfycbz0-VVDChZL29rJSQfPmLNNf93CT1p36k0AnRwaDmw
 
 (**) Demo Sequence Segment
 https://analytics.google.com/analytics/web/template?uid=BYYcDsLZSpuZNqSO9XZ-NQ
